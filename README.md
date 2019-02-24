@@ -1,7 +1,7 @@
 # Generic Adventure
 A text-based adventure game made in Java.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Screenshot 1](/Gameplay.png?raw=true "Gameplay")
 
 ## How to Play
 Download the files in the Game Files folder and double-click the "Generic Adventure.bat" file to start the game!
